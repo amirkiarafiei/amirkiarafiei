@@ -1,6 +1,17 @@
-A Computer Scientist passionate about Data Science and Artificial Intelligence. This repository serves as a portfolio of my projects and contributions.<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&pause=1000&color=1D21F7&center=true&vCenter=true&width=280&height=40&lines=AI+Engineer+%7C+Researcher)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirkiarafiei) 
- 
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
+**Amirkia Rafiei Oskooei**
 
+
+<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
+  <img align="left" alt="Amirkia's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
+  <img align="left" alt="Amirkia's Google Scholar" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
+  <img align="left" alt="Amirkia's ResearchGate" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
+  <img align="left" alt="Amirkia's ORCID" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
+</a>
